@@ -56,6 +56,13 @@
     "text": "Lecture 1: Overfitting, Double Descent, Model Complexity, and Inductive Biases\nWe discuss the evolution of model design in machine learning over the last decades, the discovery of double descent, and scaling laws. We then demonstrate that similar results hold in the realm of finance: Bigger (more complex) models perform better out-of-sample in terms of their Sharpe Ratios. We then discuss the key regularization property of over-parameterized (more parameters than observations) models and their inductive biases.\n\nKey References\n\nBelkin, Mikhail, Daniel Hsu, Siyuan Ma, and Soumik Mandal. “Reconciling modern machine-learning practice and the classical bias–variance trade-off.” Proceedings of the National Academy of Sciences 116, no. 32 (2019): 15849-15854.\nNakkiran, Preetum, Gal Kaplun, Yamini Bansal, Tristan Yang, Boaz Barak, and Ilya Sutskever. “Deep double descent: Where bigger models and more data hurt.” Journal of Statistical Mechanics: Theory and Experiment 2021, no. 12 (2021): 124003.\nKaplan, Jared, Sam McCandlish, Tom Henighan, Tom B. Brown, Benjamin Chess, Rewon Child, Scott Gray, Alec Radford, Jeffrey Wu, and Dario Amodei. “Scaling laws for neural language models.” arXiv preprint arXiv:2001.08361 (2020).\nMalamud, Semyon, Kelly, Bryan T., & Zhou, Kanying (2024). “The Virtue of Complexity in Return Prediction.” Journal of Finance, 79(1), 459-503."
   },
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Semyon Malamud Lectures",
+    "section": "",
+    "text": ":::: {.columns} ::: {.column width=“20%”}  ::: ::: {.column width=“5%”} ::: ::: {.column width=“45%”} Semyon Malamud Senior Chair, Swiss Finance Institute  Associate Professor, EPFL Research Fellow, CEPR semyon.malamud@epfl.ch ::: ::: {.column width=“30%”} Time: 4:00-6:00 p.m.\nLocation: McNair Hall 318\n  ::: ::::"
+  },
+  {
     "objectID": "index.html#details",
     "href": "index.html#details",
     "title": "Semyon Malamud Lectures",

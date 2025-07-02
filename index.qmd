@@ -3,14 +3,13 @@
 ## Malamud Lectures<br><br>Foundations of Big Data and Machine Learning <br>in Finance, Statistics, and Beyond
 :::
 
-<br>
-
 ::: {style="text-align: center;"}
 
 #### Mon, Sept 22-Thu, Sept 25 and Mon, Sept 29 - Wed, Oct 1, 2025
 
 :::
 
+<br>
 :::: {.columns}
 ::: {.column width="20%"} 
 ![](photo.jpg)

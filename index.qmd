@@ -11,6 +11,8 @@
 
 <br>
 
+---
+
 :::: {.columns}
 ::: {.column width="20%"} 
 ![](photo.jpg)

@@ -5,6 +5,12 @@
 
 <br>
 
+::: {style="text-align: center;"}
+
+#### Mon, Sept 22-Thu, Sept 25 and Mon, Sept 29 - Wed, Oct 1, 2025
+
+:::
+
 :::: {.columns}
 ::: {.column width="20%"} 
 ![](photo.jpg)
@@ -21,7 +27,6 @@ Research Fellow, CEPR<br>
 ::: {.column width="30%"}
 **Time:** 4:00-6:00 p.m.  
 **Location:** McNair Hall 318  
-**Dates:** Sept 22-25, Sept 29-Oct 1, 2025
 <br>
 ![](RiceUniversity.png){width="60%"}
 :::

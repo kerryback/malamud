@@ -1,0 +1,29 @@
+## {style="text-align: center;"} Lecture 6: High-Dimensional Factor Models, Portfolio Tangent Kernel, and the Complexity Wedge
+
+This lecture applies big data concepts to the cross-section of asset returns via factor models. We discuss the tension between traditional unconditional factor models (with a small number of static factors) and conditional approaches that incorporate more information (time-varying or state-dependent factors). We discuss the limitations of dimensionality reduction techniques in high-dimensional settings (Lettau and Pelger, 2020) and the total collapse of APT-style arguments when the data is sufficiently complex (Didisheim et al., 2024).
+
+Finally, we introduce the Portfolio Tangent Kernel (an analog of the Neural Tangent Kernel for portfolio optimization problems) and show how it can be used to derive deep insights about almost any machine learning model. We then focus on models with cross-predictability (Kelly et al., 2023) and the role of the attention mechanism for learning across stocks (Kelly et al., 2025).
+
+## Key References
+
+- Feng, Guanhao, Stefano Giglio, and Dacheng Xi. (2020). Taming the Factor Zoo: A Test of New Factors. *Journal of Finance*, 75(3), 1327-1370.
+
+- Bryzgalova, Svetlana, Victor DeMiguel, Sicong Li, and Markus Pelger. "Asset-pricing factors with economic targets." Available at SSRN 4344837 (2023).
+
+- Chernov, Mikhail, Bryan T Kelly, Semyon Malamud, and Johannes Schwab, "A Test of the Efficiency of a Given Portfolio in High Dimensions," Swiss Finance Institute Research Paper, 2025, (25-26)
+
+- Lettau, M., & Pelger, M. (2020). Factors that fit the time series and cross-section of stock returns. *The Review of Financial Studies*, 33(5), 2274-2325.
+
+- Onatski, Alexei. "Testing hypotheses about the number of factors in large factor models." *Econometrica* 77.5 (2009): 1447-1479.
+
+- Onatski, Alexei, and Chen Wang. "Alternative asymptotics for cointegration tests in large VARs." *Econometrica* 86.4 (2018): 1465-1478.
+
+- Onatski, Alexei, and Chen Wang. "Spurious factor analysis." *Econometrica* 89.2 (2021): 591-614.
+
+- Didisheim, Antoine, Shikun Barry Ke, Bryan T. Kelly, and Semyon Malamud. APT or "AIPT"? the surprising dominance of large factor models. No. w33012. National Bureau of Economic Research, 2024.
+
+- Kelly, Bryan, Boris Kuznetsov, Semyon Malamud, and Teng Andrea Xu. "Large (and deep) factor models." arXiv preprint arXiv:2402.06635 (2024).
+
+- Kelly, Bryan T., Boris Kuznetsov, Semyon Malamud, and Teng Andrea Xu. Artificial Intelligence Asset Pricing Models. No. w33351. National Bureau of Economic Research, 2025.
+
+- Kelly, Bryan, Semyon Malamud, and Lasse Heje Pedersen. "Principal portfolios." *Journal of Finance* 78, no. 1 (2023): 347-387.

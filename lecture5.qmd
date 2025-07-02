@@ -1,0 +1,15 @@
+## {style="text-align: center;"} Lecture 5: Deep vs. Shallow Learning; Neural Tangent Kernel; Feature Learning
+
+We discuss a striking connection between kernel methods and deep learning. We then discuss how to train neural networks away from kernel regimes and how feature learning emerges in neural nets. We then discuss the implications of feature learning for asset pricing and how transformers perform feature learning in Large Language Models and for Predicting Returns.
+
+## Key References
+
+- Jacot, Arthur, Franck Gabriel, and Clément Hongler. "Neural tangent kernel: Convergence and generalization in neural networks." Advances in neural information processing systems 31 (2018).
+
+- Radhakrishnan, Adityanarayanan, Daniel Beaglehole, Parthe Pandit, and Mikhail Belkin. "Mechanism for feature learning in neural networks and backpropagation-free machine learning models." *Science* 383, no. 6690 (2024): 1461-1467.
+
+- Kleinberg, Jon, Himabindu Lakkaraju, Jure Leskovec, Jens Ludwig, and Sendhil Mullainathan. (2018). "Human decisions and machine predictions." *Quarterly Journal of Economics*, 133(1), 237-293.
+
+- Mullainathan, S., & Spiess, J. (2017). "Machine Learning: An Applied Econometric Approach." *Journal of Economic Perspectives*, 31(2), 87–106.
+
+- Kelly, Bryan T., Boris Kuznetsov, Semyon Malamud, and Teng Andrea Xu. Artificial Intelligence Asset Pricing Models. No. w33351. National Bureau of Economic Research, 2025.

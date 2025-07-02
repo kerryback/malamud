@@ -1,0 +1,30 @@
+project:
+  type: website
+  output-dir: docs
+  render:
+    - index.qmd
+    - lecture1.qmd
+    - lecture2.qmd
+    - lecture3.qmd
+    - lecture4.qmd
+    - lecture5.qmd
+    - lecture6.qmd
+    - lecture7.qmd
+  resources: CNAME
+   
+    
+
+    
+website:
+  title: "Semyon Malamud Lectures"
+  search: false  
+  
+format:
+  html:
+    theme:
+      light: flatly
+      dark: superhero
+    
+
+
+

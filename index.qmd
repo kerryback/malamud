@@ -52,7 +52,7 @@ Graduate students and faculty in Finance, Statistics, Computer Science, Economic
 ## Details
 
 :::: {.columns}
-::: {.column width="32%"}
+::: {.column width="48%"}
 ### [Monday, Sept 22](lecture1.qmd)
 - Overfitting
 - Double Descent
@@ -66,14 +66,6 @@ Graduate students and faculty in Finance, Statistics, Computer Science, Economic
 - Non-Linearities
 - Random Features
 
-
-:::
-
-::: {.column width="2%"}
-:::
-
-::: {.column width="32%"}
-
 ### [Wednesday, Sept 24](lecture3.qmd)
 - Implicit Regularization
 - The Virtue of Complexity
@@ -84,15 +76,12 @@ Graduate students and faculty in Finance, Statistics, Computer Science, Economic
 - Kernel Methods
 - Shallow Learning
 - Curse of Dimensionality
-
-
 :::
 
-::: {.column width="2%"}
+::: {.column width="4%"}
 :::
 
-::: {.column width="32%"}
-
+::: {.column width="48%"}
 ### [Monday, Sept 29](lecture5.qmd)
 - Deep vs. Shallow Learning
 - Neural Tangent Kernel

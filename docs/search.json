@@ -60,7 +60,7 @@
     "href": "index.html#details",
     "title": "Semyon Malamud Lectures",
     "section": "Details",
-    "text": "Details\n\n\n\nMonday, Sept 22\n\nOverfitting\nDouble Descent\nModel Complexity\nInductive Biases\n\n\n\nTuesday, Sept 23\n\nRegularization\nModel Selection\nSparsity\nNon-Linearities\nRandom Features\n\n\n\n\n\n\nWednesday, Sept 24\n\nImplicit Regularization\nThe Virtue of Complexity\nThe Magic of High Dimensions\nBasics of Random Matrix Theory\n\n\n\nThursday, Sept 25\n\nKernel Methods\nShallow Learning\nCurse of Dimensionality\n\n\n\n\n\n\nMonday, Sept 29\n\nDeep vs. Shallow Learning\nNeural Tangent Kernel\nFeature Learning\n\n\n\nTuesday, Sept 30\n\nHigh-Dimensional Factor Models\nPortfolio Tangent Kernel\nThe Complexity Wedge\n\n\n\nWednesday, Oct 1\n\nBayesian Learning\nGaussian Processes\nEquilibrium Models in High Dimensions"
+    "text": "Details\n\n\n\nMonday, Sept 22\n\nOverfitting\nDouble Descent\nModel Complexity\nInductive Biases\n\n\n\nTuesday, Sept 23\n\nRegularization\nModel Selection\nSparsity\nNon-Linearities\nRandom Features\n\n\n\nWednesday, Sept 24\n\nImplicit Regularization\nThe Virtue of Complexity\nThe Magic of High Dimensions\nBasics of Random Matrix Theory\n\n\n\nThursday, Sept 25\n\nKernel Methods\nShallow Learning\nCurse of Dimensionality\n\n\n\n\n\n\nMonday, Sept 29\n\nDeep vs. Shallow Learning\nNeural Tangent Kernel\nFeature Learning\n\n\n\nTuesday, Sept 30\n\nHigh-Dimensional Factor Models\nPortfolio Tangent Kernel\nThe Complexity Wedge\n\n\n\nWednesday, Oct 1\n\nBayesian Learning\nGaussian Processes\nEquilibrium Models in High Dimensions"
   },
   {
     "objectID": "index.html#prerequisites",

@@ -56,8 +56,7 @@ Graduate students and faculty in Finance, Statistics, Computer Science, Economic
 
 - **Modeling with High-Dimensional Predictors**<br>Understand modern methods for large-scale data and factor models in finance
 - **Overfitting and Complexity**<br>Recognize the role of over-parameterized models in predictive performance, portfolio choice, and decision making
-- **Neural Networks**<br>Interpret deep vs. shallow learning architectures and their application to financial data 
-- **Deep Learning and Feature Learning**
+- **Neural Networks**<br>Interpret deep vs. shallow learning architectures and their application to financial data. Deep learning and feature learning
 - **Factor Models**<br>Construct and analyze high-dimensional factor models for the cross-section of returns
 - **Equilibrium**<br>Assess how complexity corrections change asset pricing fundamentals and how complexity leads to tractable equilibria with non-linear parameter learning
 

@@ -28,7 +28,7 @@ Research Fellow, CEPR<br>
 ::: {.column width="30%"}
 **Time:** 4:00-6:00 p.m.  
 **Location:** McNair Hall 318  
-<br>
+
 ![](RiceUniversity.png){width="60%"}
 :::
 ::::

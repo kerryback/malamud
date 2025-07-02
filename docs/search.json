@@ -56,11 +56,11 @@
     "text": "Lecture 1: Overfitting, Double Descent, Model Complexity, and Inductive Biases\nWe discuss the evolution of model design in machine learning over the last decades, the discovery of double descent, and scaling laws. We then demonstrate that similar results hold in the realm of finance: Bigger (more complex) models perform better out-of-sample in terms of their Sharpe Ratios. We then discuss the key regularization property of over-parameterized (more parameters than observations) models and their inductive biases.\n\nKey References\n\nBelkin, Mikhail, Daniel Hsu, Siyuan Ma, and Soumik Mandal. “Reconciling modern machine-learning practice and the classical bias–variance trade-off.” Proceedings of the National Academy of Sciences 116, no. 32 (2019): 15849-15854.\nNakkiran, Preetum, Gal Kaplun, Yamini Bansal, Tristan Yang, Boaz Barak, and Ilya Sutskever. “Deep double descent: Where bigger models and more data hurt.” Journal of Statistical Mechanics: Theory and Experiment 2021, no. 12 (2021): 124003.\nKaplan, Jared, Sam McCandlish, Tom Henighan, Tom B. Brown, Benjamin Chess, Rewon Child, Scott Gray, Alec Radford, Jeffrey Wu, and Dario Amodei. “Scaling laws for neural language models.” arXiv preprint arXiv:2001.08361 (2020).\nMalamud, Semyon, Kelly, Bryan T., & Zhou, Kanying (2024). “The Virtue of Complexity in Return Prediction.” Journal of Finance, 79(1), 459-503."
   },
   {
-    "objectID": "index.html#lectures",
-    "href": "index.html#lectures",
+    "objectID": "index.html#details",
+    "href": "index.html#details",
     "title": "Semyon Malamud Lectures",
-    "section": "Lectures",
-    "text": "Lectures\n\nMonday, Sept 22\n\nOverfitting\nDouble Descent\nModel Complexity\nInductive Biases\n\n\n\nTuesday, Sept 23\n\nRegularization\nModel Selection\nSparsity\nNon-Linearities\nRandom Features\n\n\n\nWednesday, Sept 24\n\nImplicit Regularization\nThe Virtue of Complexity\nThe Magic of High Dimensions\nBasics of Random Matrix Theory\n\n\n\nThursday, Sept 25\n\nKernel Methods\nShallow Learning\nCurse of Dimensionality\n\n\n\nMonday, Sept 29\n\nDeep vs. Shallow Learning\nNeural Tangent Kernel\nFeature Learning\n\n\n\nTuesday, Sept 30\n\nHigh-Dimensional Factor Models\nPortfolio Tangent Kernel\nThe Complexity Wedge\n\n\n\nWednesday, Oct 1\n\nBayesian Learning\nGaussian Processes\nEquilibrium Models in High Dimensions"
+    "section": "Details",
+    "text": "Details\n\nMonday, Sept 22\n\nOverfitting\nDouble Descent\nModel Complexity\nInductive Biases\n\n\n\nTuesday, Sept 23\n\nRegularization\nModel Selection\nSparsity\nNon-Linearities\nRandom Features\n\n\n\nWednesday, Sept 24\n\nImplicit Regularization\nThe Virtue of Complexity\nThe Magic of High Dimensions\nBasics of Random Matrix Theory\n\n\n\nThursday, Sept 25\n\nKernel Methods\nShallow Learning\nCurse of Dimensionality\n\n\n\nMonday, Sept 29\n\nDeep vs. Shallow Learning\nNeural Tangent Kernel\nFeature Learning\n\n\n\nTuesday, Sept 30\n\nHigh-Dimensional Factor Models\nPortfolio Tangent Kernel\nThe Complexity Wedge\n\n\n\nWednesday, Oct 1\n\nBayesian Learning\nGaussian Processes\nEquilibrium Models in High Dimensions"
   },
   {
     "objectID": "index.html#prerequisites",
@@ -70,11 +70,11 @@
     "text": "Prerequisites\nBasic probability and linear algebra. Some Python skills would also be useful, as we will be working with Jupyter Notebooks."
   },
   {
-    "objectID": "index.html#contact-information",
-    "href": "index.html#contact-information",
+    "objectID": "index.html#organizer-and-contact",
+    "href": "index.html#organizer-and-contact",
     "title": "Semyon Malamud Lectures",
-    "section": "Contact Information",
-    "text": "Contact Information\nKerry Back J. Howard Creekmore Professor of Finance and Professor of Economics"
+    "section": "Organizer and Contact",
+    "text": "Organizer and Contact\nKerry Back J. Howard Creekmore Professor of Finance and Professor of Economics"
   },
   {
     "objectID": "lecture2.html",

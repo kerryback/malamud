@@ -1,6 +1,6 @@
 ::: {style="text-align: center;"}
 
-## Lectures by Semyon Malamud <br><br>Foundations of Big Data and Machine Learning <br>in Finance, Statistics, and Beyond
+## Malamud Lectures<br><br>Foundations of Big Data and Machine Learning <br>in Finance, Statistics, and Beyond
 :::
 
 <br>
@@ -54,14 +54,14 @@ Graduate students and faculty in finance, statistics, computer science, and econ
 
 ### Learning Outcomes
 
-- **Modeling with High-Dimensional Predictors**<br>Understand modern methods for large-scale data and factor models in finance.
-- **Overfitting and Complexity**<br>Recognize the role of over-parameterized models in predictive performance, portfolio choice, and decision making.
-- **Neural Networks**<br>Interpret deep vs. shallow learning architectures and their application to financial data. 
+- **Modeling with High-Dimensional Predictors**<br>Understand modern methods for large-scale data and factor models in finance
+- **Overfitting and Complexity**<br>Recognize the role of over-parameterized models in predictive performance, portfolio choice, and decision making
+- **Neural Networks**<br>Interpret deep vs. shallow learning architectures and their application to financial data 
 - **Deep Learning and Feature Learning**
-- **Factor Models**<br>Construct and analyze high-dimensional factor models for the cross-section of returns.
-- **Equilibrium**<br>Assess how complexity corrections change asset pricing fundamentals and how complexity leads to tractable equilibria with non-linear parameter learning.
+- **Factor Models**<br>Construct and analyze high-dimensional factor models for the cross-section of returns
+- **Equilibrium**<br>Assess how complexity corrections change asset pricing fundamentals and how complexity leads to tractable equilibria with non-linear parameter learning
 
-## Lectures
+## Details
 
 ### [Monday, Sept 22](lecture1.qmd)
 - Overfitting
@@ -106,7 +106,7 @@ Graduate students and faculty in finance, statistics, computer science, and econ
 
 Basic probability and linear algebra. Some Python skills would also be useful, as we will be working with Jupyter Notebooks.
 
-## Contact Information
+## Organizer and Contact
 
 [Kerry Back](mailto:kerry.e.back@rice.edu)<br>
 J. Howard Creekmore Professor of Finance and Professor of Economics

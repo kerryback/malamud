@@ -10,7 +10,7 @@ project:
     - lecture5.qmd
     - lecture6.qmd
     - lecture7.qmd
-  resources: CNAME
+resources: CNAME
    
     
 

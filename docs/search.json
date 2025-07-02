@@ -88,7 +88,7 @@
     "href": "index.html#lectures",
     "title": "Semyon Malamud Lectures",
     "section": "Lectures",
-    "text": "Lectures\n\nLecture 1: Overfitting, Double Descent, Model Complexity, and Inductive Biases (Monday, Sept 22)\nLecture 2: Regularization, Model Selection, Sparsity, Non-Linearities, and Random Features (Tuesday, Sept 23)\nLecture 3: Implicit Regularization, The Virtue of Complexity, The Magic of High Dimensions. Basics of Random Matrix Theory (Wednesday, Sept 24)\nLecture 4: Kernel Methods, Shallow Learning, Curse of Dimensionality (Thursday, Sept 25)\nLecture 5: Deep vs. Shallow Learning; Neural Tangent Kernel; Feature Learning (Monday, Sept 29)\nLecture 6: High-Dimensional Factor Models, Portfolio Tangent Kernel, and the Complexity Wedge (Tuesday, Sept 30)\nLecture 7: Bayesian Learning, Gaussian Processes and Equilibrium Models in High Dimensions (Wednesday, Oct 1)"
+    "text": "Lectures\n\nMonday, Sept 22\n\nOverfitting, Double Descent, Model Complexity, and Inductive Biases\n\n\n\nTuesday, Sept 23\n\nRegularization, Model Selection, Sparsity, Non-Linearities, and Random Features\n\n\n\nWednesday, Sept 24\n\nImplicit Regularization, The Virtue of Complexity, The Magic of High Dimensions\nBasics of Random Matrix Theory\n\n\n\nThursday, Sept 25\n\nKernel Methods, Shallow Learning, Curse of Dimensionality\n\n\n\nMonday, Sept 29\n\nDeep vs. Shallow Learning\nNeural Tangent Kernel\nFeature Learning\n\n\n\nTuesday, Sept 30\n\nHigh-Dimensional Factor Models, Portfolio Tangent Kernel, and the Complexity Wedge\n\n\n\nWednesday, Oct 1\n\nBayesian Learning, Gaussian Processes and Equilibrium Models in High Dimensions"
   },
   {
     "objectID": "index.html#prerequisites",

@@ -1,8 +1,10 @@
-## {style="text-align: center;"} Lecture 1: Overfitting, Double Descent, Model Complexity, and Inductive Biases
+[🏠](index.qmd)
+
+## Lecture 1: Overfitting, Double Descent, Model Complexity, and Inductive Biases
 
 We discuss the evolution of model design in machine learning over the last decades, the discovery of double descent, and scaling laws. We then demonstrate that similar results hold in the realm of finance: Bigger (more complex) models perform better out-of-sample in terms of their Sharpe Ratios. We then discuss the key regularization property of over-parameterized (more parameters than observations) models and their inductive biases.
 
-## Key References
+### Key References
 
 - Belkin, Mikhail, Daniel Hsu, Siyuan Ma, and Soumik Mandal. "Reconciling modern machine-learning practice and the classical bias–variance trade-off." *Proceedings of the National Academy of Sciences* 116, no. 32 (2019): 15849-15854.
 

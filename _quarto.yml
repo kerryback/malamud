@@ -17,13 +17,15 @@ resources: CNAME
     
 website:
   title: "Semyon Malamud Lectures"
-  search: false  
+  search: false
+  page-navigation: true  
   
 format:
   html:
     theme:
       light: flatly
       dark: superhero
+
     
 
 

@@ -1,0 +1,21 @@
+/* Custom dark/light mode toggle icons */
+
+/* Replace default icon with sun/moon emojis */
+.quarto-color-scheme-toggle i {
+  display: none;
+}
+
+.quarto-color-scheme-toggle::after {
+  font-size: 1.2em;
+  line-height: 1;
+}
+
+/* Moon icon in light mode (switch to dark) */
+html[data-bs-theme="light"] .quarto-color-scheme-toggle::after {
+  content: "🌙";
+}
+
+/* Sun icon in dark mode (switch to light) */
+html[data-bs-theme="dark"] .quarto-color-scheme-toggle::after {
+  content: "☀️";
+}

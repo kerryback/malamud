@@ -1,8 +1,10 @@
-## {style="text-align: center;"} Lecture 2: Regularization, Model Selection, Sparsity, Non-Linearities, and Random Features
+[🏠](index.qmd)
+
+## Lecture 2: Regularization, Model Selection, Sparsity, Non-Linearities, and Random Features
 
 This lecture covers techniques to control model complexity and avoid overfitting in high-dimensional settings through forms of penalization (shrinkage). We discuss how linear algebra magic can be used to find optimal shrinkage. While imposing forms of sparsity can help (Freyberger, Neuhierl, and Weber, 2020), this can be problematic in high dimensions (Xiu and Shen, 2025). We then introduce the simplest form of non-linearities- random features- and show how this method can be extremely powerful but may also fail drastically in high dimensions due to the curse of dimensionality and the inability of random feature methods to perform feature learning.
 
-## Key References
+### Key References
 
 - Kelly, Bryan T., Semyon Malamud, Mohammad Pourmohammadi, and Fabio Trojani. Universal portfolio shrinkage. No. w32004. National Bureau of Economic Research, 2024.
 

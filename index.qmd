@@ -40,10 +40,13 @@ Research Fellow, CEPR<br>
 :::
 ::::
 
+### Target Audience
+
+Graduate students and faculty in finance, statistics, computer science, and economics and related disciplines 
 
 ### Sponsors
 
-- Creatives Venture Fund, Office of Research
+- Creative Ventures Fund, Office of Research
 - Jones Graduate School of Business
 - Center for Computational Finance & Economic Systems
 - Department of Computer Science
@@ -51,27 +54,38 @@ Research Fellow, CEPR<br>
 
 ### Learning Outcomes
 
-- Modeling with High-Dimensional Predictors: Understand modern methods for large-scale data and factor models in finance.
-- Overfitting and Complexity: Recognize the role of over-parameterized models in predictive performance, portfolio choice, and decision making.
-- Neural Networks: Interpret deep vs. shallow learning architectures and their application to financial data. 
-- Deep Learning and Feature Learning.
-- Factor Models: Construct and analyze high-dimensional factor models for the cross-section of returns.
-- Equilibrium: Assess how complexity corrections change asset pricing fundamentals and how complexity leads to tractable equilibria with non-linear parameter learning.
+- **Modeling with High-Dimensional Predictors**<br>Understand modern methods for large-scale data and factor models in finance.
+- **Overfitting and Complexity**<br>Recognize the role of over-parameterized models in predictive performance, portfolio choice, and decision making.
+- **Neural Networks**<br>Interpret deep vs. shallow learning architectures and their application to financial data. 
+- **Deep Learning and Feature Learning**
+- **Factor Models**<br>Construct and analyze high-dimensional factor models for the cross-section of returns.
+- **Equilibrium**<br>Assess how complexity corrections change asset pricing fundamentals and how complexity leads to tractable equilibria with non-linear parameter learning.
 
 ## Lectures
 
 ### [Monday, Sept 22](lecture1.qmd)
-- Overfitting, Double Descent, Model Complexity, and Inductive Biases
+- Overfitting
+- Double Descent
+- Model Complexity
+- Inductive Biases
 
 ### [Tuesday, Sept 23](lecture2.qmd)
-- Regularization, Model Selection, Sparsity, Non-Linearities, and Random Features
+- Regularization
+- Model Selection
+- Sparsity
+- Non-Linearities
+- Random Features
 
 ### [Wednesday, Sept 24](lecture3.qmd)
-- Implicit Regularization, The Virtue of Complexity, The Magic of High Dimensions
+- Implicit Regularization
+- The Virtue of Complexity
+- The Magic of High Dimensions
 - Basics of Random Matrix Theory
 
 ### [Thursday, Sept 25](lecture4.qmd)
-- Kernel Methods, Shallow Learning, Curse of Dimensionality
+- Kernel Methods
+- Shallow Learning
+- Curse of Dimensionality
 
 ### [Monday, Sept 29](lecture5.qmd)
 - Deep vs. Shallow Learning
@@ -79,10 +93,14 @@ Research Fellow, CEPR<br>
 - Feature Learning
 
 ### [Tuesday, Sept 30](lecture6.qmd)
-- High-Dimensional Factor Models, Portfolio Tangent Kernel, and the Complexity Wedge
+- High-Dimensional Factor Models
+- Portfolio Tangent Kernel
+- The Complexity Wedge
 
 ### [Wednesday, Oct 1](lecture7.qmd)
-- Bayesian Learning, Gaussian Processes and Equilibrium Models in High Dimensions
+- Bayesian Learning
+- Gaussian Processes
+- Equilibrium Models in High Dimensions
 
 ## Prerequisites
 

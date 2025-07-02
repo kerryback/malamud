@@ -1,10 +1,12 @@
-## {style="text-align: center;"} Lecture 6: High-Dimensional Factor Models, Portfolio Tangent Kernel, and the Complexity Wedge
+[🏠](index.qmd)
+
+## Lecture 6: High-Dimensional Factor Models, Portfolio Tangent Kernel, and the Complexity Wedge
 
 This lecture applies big data concepts to the cross-section of asset returns via factor models. We discuss the tension between traditional unconditional factor models (with a small number of static factors) and conditional approaches that incorporate more information (time-varying or state-dependent factors). We discuss the limitations of dimensionality reduction techniques in high-dimensional settings (Lettau and Pelger, 2020) and the total collapse of APT-style arguments when the data is sufficiently complex (Didisheim et al., 2024).
 
 Finally, we introduce the Portfolio Tangent Kernel (an analog of the Neural Tangent Kernel for portfolio optimization problems) and show how it can be used to derive deep insights about almost any machine learning model. We then focus on models with cross-predictability (Kelly et al., 2023) and the role of the attention mechanism for learning across stocks (Kelly et al., 2025).
 
-## Key References
+### Key References
 
 - Feng, Guanhao, Stefano Giglio, and Dacheng Xi. (2020). Taming the Factor Zoo: A Test of New Factors. *Journal of Finance*, 75(3), 1327-1370.
 

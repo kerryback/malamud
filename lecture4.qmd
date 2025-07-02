@@ -1,8 +1,10 @@
-## {style="text-align: center;"} Lecture 4: Kernel Methods, Shallow Learning, Curse of Dimensionality
+[🏠](index.qmd)
+
+## Lecture 4: Kernel Methods, Shallow Learning, Curse of Dimensionality
 
 We introduce and discuss kernel methods and their key role in understanding over-parametrization and generalization properties of Machine Learning models. We discuss the surprising link between kernel methods and shallow neural networks and introduce the surprising "Plato's cave" result, where each machine learning model in high dimensions, instead of recovering the ground truth, can only recover its "shadow." This naturally leads us to talk about the alignment between a model and the data and how to characterize it.
 
-## Key References
+### Key References
 
 - El Karoui, Noureddine. "The spectrum of kernel random matrices." (2010): *Annals of Statistics* 38(1): 1-50
 

@@ -1,8 +1,10 @@
-## {style="text-align: center;"} Lecture 3: Implicit Regularization, The Virtue of Complexity, The Magic of High Dimensions. Basics of Random Matrix Theory
+[🏠](index.qmd)
+
+## Lecture 3: Implicit Regularization, The Virtue of Complexity, The Magic of High Dimensions. Basics of Random Matrix Theory
 
 In this lecture, we highlight empirical findings that greater model complexity can be beneficial for predicting returns. Contrary to conventional wisdom, increasing model parameters (even beyond the number of observations) can raise out-of-sample performance — the "virtue of complexity." We examine the theoretical justification for this and review evidence that high-complexity ML models substantially outperform simpler models in forecasting tasks.
 
-## Key References
+### Key References
 
 - Malamud, Semyon, Kelly, Bryan, & Zhou, Kanying (2024). "The Virtue of Complexity in Return Prediction." *Journal of Finance*, 79(1), 459-503.
 

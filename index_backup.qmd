@@ -6,28 +6,39 @@
 <br>
 
 :::: {.columns}
+
+
 ::: {.column width="20%"} 
+
 ![](photo.jpg)
 :::
 ::: {.column width="5%"}
 :::
-::: {.column width="45%"} 
+::: {.column width="75%"} 
 [Semyon Malamud](https://www.epfl.ch/labs/sfi-sm/)<br>
 Senior Chair, Swiss Finance Institute <br>
 Associate Professor, EPFL<br>
 Research Fellow, CEPR<br>
 [semyon.malamud@epfl.ch](mailto:semyon.malamud@epfl.ch)
 :::
-::: {.column width="30%"}
-**Time:** 4:00-6:00 p.m.  
-**Location:** McNair Hall 318  
-**Dates:** Sept 22-25, Sept 29-Oct 1, 2025
-<br>
-![](RiceUniversity.png){width="60%"}
-:::
 ::::
 
----
+<br>
+
+:::: {.columns}
+::: {.column width="20%"}
+![](RiceUniversity.png)
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="75%"}
+
+<br>
+**Time:** 4:00-6:00 p.m.  
+**Location:** McNair Hall 318  
+**Dates:** September 22-25 and September 29-October 1, 2025
+:::
+::::
 
 ### Target Audience
 
@@ -51,8 +62,6 @@ Graduate students and faculty in Finance, Statistics, Computer Science, Economic
 
 ## Details
 
-:::: {.columns}
-::: {.column width="32%"}
 ### [Monday, Sept 22](lecture1.qmd)
 - Overfitting
 - Double Descent
@@ -66,14 +75,6 @@ Graduate students and faculty in Finance, Statistics, Computer Science, Economic
 - Non-Linearities
 - Random Features
 
-
-:::
-
-::: {.column width="2%"}
-:::
-
-::: {.column width="32%"}
-
 ### [Wednesday, Sept 24](lecture3.qmd)
 - Implicit Regularization
 - The Virtue of Complexity
@@ -84,14 +85,6 @@ Graduate students and faculty in Finance, Statistics, Computer Science, Economic
 - Kernel Methods
 - Shallow Learning
 - Curse of Dimensionality
-
-
-:::
-
-::: {.column width="2%"}
-:::
-
-::: {.column width="32%"}
 
 ### [Monday, Sept 29](lecture5.qmd)
 - Deep vs. Shallow Learning
@@ -107,8 +100,6 @@ Graduate students and faculty in Finance, Statistics, Computer Science, Economic
 - Bayesian Learning
 - Gaussian Processes
 - Equilibrium Models in High Dimensions
-:::
-::::
 
 ## Prerequisites
 

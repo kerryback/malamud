@@ -14,3 +14,14 @@ echo "Pushing to origin main..."
 git push origin main
 
 echo "Deploy complete!"
+
+echo "Opening browser to view index.html..."
+if command -v xdg-open > /dev/null; then
+    xdg-open index.html
+elif command -v open > /dev/null; then
+    open index.html
+elif command -v start > /dev/null; then
+    start index.html
+else
+    echo "Could not detect how to open browser. Please open index.html manually."
+fi

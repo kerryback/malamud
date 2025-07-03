@@ -1,4 +1,4 @@
-::: {style="text-align: center;"}
+::: {style="text-align: center; background-color: #6B8CAE; color: white; padding: 20px; border-radius: 10px;"}
 
 ## Malamud Lectures<br><br>Foundations of Big Data and Machine Learning <br>in Finance, Statistics, and Beyond
 :::

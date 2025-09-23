@@ -5,15 +5,17 @@
 
 ---
 
-[Slides with link to notebooks](slides.qmd)
 
----
 
 ::: {style="text-align: center;"}
 
 #### Mon - Thu, Sept 22 -25 and Mon - Wed, Sept 29 - Oct 1, 2025
 
 :::
+
+---
+
+[Slides with link to notebooks](slides.qmd)
 
 ---
 

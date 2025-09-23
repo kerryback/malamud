@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(source:*)",
+      "Bash(pip install:*)",
+      "Bash(python:*)",
+      "Bash(quarto:*)",
+      "Bash(rm:*)",
+      "WebFetch(domain:quarto.org)",
+      "Bash(chmod:*)",
+      "Bash(git add:*)"
+    ],
+    "deny": []
+  }
+}

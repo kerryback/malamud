@@ -6,3 +6,4 @@
 ---
 
 - [Days 1 and 2](Slides1_IntroToML.pdf)
+- [Day 3](RandomMatrixTheory.pdf)

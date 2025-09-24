@@ -16,7 +16,8 @@
       "WebFetch(domain:malamud-lectures.rice-business.org)",
       "Bash(cat:*)",
       "Bash(git fetch:*)",
-      "Bash(curl:*)"
+      "Bash(curl:*)",
+      "Bash(git pull:*)"
     ],
     "deny": []
   }

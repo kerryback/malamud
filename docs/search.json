@@ -42,13 +42,6 @@
     "text": "Lecture 2: Regularization, Model Selection, Sparsity, Non-Linearities, and Random Features\nThis lecture covers techniques to control model complexity and avoid overfitting in high-dimensional settings through forms of penalization (shrinkage). We discuss how linear algebra magic can be used to find optimal shrinkage. While imposing forms of sparsity can help (Freyberger, Neuhierl, and Weber, 2020), this can be problematic in high dimensions (Xiu and Shen, 2025). We then introduce the simplest form of non-linearities- random features- and show how this method can be extremely powerful but may also fail drastically in high dimensions due to the curse of dimensionality and the inability of random feature methods to perform feature learning.\n\nKey References\n\nKelly, Bryan T., Semyon Malamud, Mohammad Pourmohammadi, and Fabio Trojani. Universal portfolio shrinkage. No. w32004. National Bureau of Economic Research, 2024.\nGu, Shihao, Kelly, Bryan T., & Xiu, Dacheng. (2020). “Empirical Asset Pricing via Machine Learning.” Review of Financial Studies, 33(5), 2223–2273.\nXiu, Dacheng, and Zhouyu Shen. (2025). “Can Machines Learn Weak Signals?”, working paper.\nMalamud, Semyon, Kelly, Bryan, & Zhou, Kanying (2024). “The Virtue of Complexity in Return Prediction.” Journal of Finance, 79(1), 459-503."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Semyon Malamud Lectures",
-    "section": "",
-    "text": "Slides with link to notebooks"
-  },
-  {
     "objectID": "lecture1.html",
     "href": "lecture1.html",
     "title": "Semyon Malamud Lectures",

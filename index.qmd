@@ -15,7 +15,13 @@
 
 ---
 
-[Slides with link to notebooks](slides.qmd)
+<br><br>
+
+::: {style="text-align: center; font-size: 1.3em; font-weight: 500;"}
+[Slides with links to notebooks](slides.qmd)
+:::
+
+<br><br>
 
 ---
 

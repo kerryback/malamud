@@ -10,7 +10,13 @@
       "Bash(chmod:*)",
       "Bash(git add:*)",
       "Bash(git commit:*)",
-      "Bash(git push:*)"
+      "Bash(git push:*)",
+      "Bash(git log:*)",
+      "Bash(git ls-tree:*)",
+      "WebFetch(domain:malamud-lectures.rice-business.org)",
+      "Bash(cat:*)",
+      "Bash(git fetch:*)",
+      "Bash(curl:*)"
     ],
     "deny": []
   }

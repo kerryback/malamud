@@ -16,6 +16,8 @@ project:
     - CNAME
     - Slides1_IntroToML.pdf
     - RandomMatrixTheory.pdf
+    - NeuralNetworksAndNTK.pdf
+    - AdvancedKernels.pdf
    
     
 

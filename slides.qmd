@@ -7,3 +7,5 @@
 
 - [Days 1 and 2: Intro to Machine Learning](Slides1_IntroToML.pdf)
 - [Days 3 and 4: Random Matrix Theory](RandomMatrixTheory.pdf)
+- [Day 5: Kernel Methods](AdvancedKernels.pdf)
+- [Day 6: Neural Networks](NeuralNetworksAndNTK.pdf)

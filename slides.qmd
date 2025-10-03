@@ -9,3 +9,6 @@
 - [Days 3 and 4: Random Matrix Theory](RandomMatrixTheory.pdf)
 - [Day 5: Kernel Methods](AdvancedKernels.pdf)
 - [Day 6: Neural Networks](NeuralNetworksAndNTK.pdf)
+- [Day 7: Asset Pricing](AssetPricing.pdf)
+- [Datasets for Asset Pricing Lecture](https://drive.google.com/drive/folders/1XC13LGDMK4knWd3x5Iep9jv7_43nmp-C?usp=drive_link)
+
